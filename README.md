@@ -1,6 +1,6 @@
 # Introduction to Analysis with Python (2021-10-18)
 
-The course Intermediate Python has teaching material that is available at [Introduction to Analysis with Python](https://milliams.com/courses/data_analysis_python/).
+The course has teaching material that is available at [Introduction to Analysis with Python](https://milliams.com/courses/data_analysis_python/).
 
 # Preparation
 
